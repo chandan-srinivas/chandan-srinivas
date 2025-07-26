@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-srinivas&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-srinivas" /> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m pursued my bachelor's degree in **Computer Science** from Vignan's Institute of Information Technology(VIIT)
 
 - 📫 How to reach me **srinivaschandan0@gmail.com**
 
